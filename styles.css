@@ -1,0 +1,79 @@
+.container{
+    background-color:rgb(42, 128, 165);
+    color:black;
+    margin-left: 10px;
+}
+.heading{
+    font-size: 50px;
+}
+.input{
+    font-size:25px;
+}
+.angleinput{
+    font-size:25px;
+}
+#is-triangle-btn{
+    size: 5px;
+border-radius: 10px;
+padding: 0.5rem;
+
+}
+#submit-answer-btn{
+    size: 5px;
+border-radius: 10px;
+padding: 0.5rem;
+
+}
+#hypo-btn{
+    size: 5px;
+border-radius: 10px;
+padding: 0.5rem;
+
+}
+#area-btn{
+    size: 5px;
+border-radius: 10px;
+padding: 0.5rem;
+
+}
+#output{
+    font-size: 30px;
+}
+.abc{
+    font-size: 40px;
+    color:black;
+   background-color: black;
+    text-decoration: none;
+   
+    
+}
+.a{
+    margin-left: 10px;
+    margin-right: 25px;
+   color:white;
+   text-decoration: none;
+   
+}
+.b{
+    margin-left: 10px;
+    margin-right: 25px;
+    color:white;
+    text-decoration: none;
+   
+
+}
+.c{
+    margin-left: 10px;
+    margin-right: 25px;
+    color:white;
+    text-decoration: none;
+   
+}
+
+.d{
+    margin-left: 10px;
+    margin-right: 25px;
+    color:white;
+    text-decoration: none;
+   
+}
